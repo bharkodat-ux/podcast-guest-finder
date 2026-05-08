@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Dr. Aisha Rahman",
+    "bio": "AI ethics researcher and author, focuses on fairness in machine learning.",
+    "topics": ["AI ethics","machine learning","policy"],
+    "contact": "aisha@example.com",
+    "availability": "Weekdays evenings"
+  },
+  {
+    "name": "Marco Silva",
+    "bio": "Independent journalist covering climate tech and clean energy startups.",
+    "topics": ["climate","clean energy","startups"],
+    "contact": "marco@example.com",
+    "availability": "Flexible"
+  },
+  {
+    "name": "Sanjay Patel",
+    "bio": "Product manager and creator of several indie developer tools.",
+    "topics": ["product","indie dev","growth"],
+    "contact": "sanjay@example.com",
+    "availability": "Weekends"
+  },
+  {
+    "name": "Lina Morales",
+    "bio": "Food historian and cookbook author exploring Latin American cuisines.",
+    "topics": ["food","culture","history"],
+    "contact": "lina@example.com",
+    "availability": "Mornings"
+  }
+]
